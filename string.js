@@ -10,4 +10,4 @@ console.log(country[2]);
 country[2]= 'r';
 console.log(country);
 // string is immutable --- not changable.
-// array is immutable
+// array is mutable
